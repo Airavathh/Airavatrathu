@@ -114,6 +114,7 @@
  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
+CONTROL PANNEL = https://kitsch-sun.000webhostapp.com/
 
 The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
 
